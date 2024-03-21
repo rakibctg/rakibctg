@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibctg" alt="rakibctg" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rakibctg786" target="blank"><img src="https://img.shields.io/twitter/follow/rakibctg786?logo=twitter&style=for-the-badge" alt="rakibctg786" /></a> </p>
+<p align="left"> <a href="https://twitter.com/eunusctg" target="blank"><img src="https://img.shields.io/twitter/follow/eunusctg?logo=twitter&style=for-the-badge" alt="eunusctg" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio](https://portfolio-rakibctg.vercel.app/)
 
@@ -18,6 +18,7 @@
 - 📝 I regularly write articles on [https://piforum.in](https://piforum.in)
 
 - 📫 How to reach me **eunusctg@gmail.com**
+**eunus@gmx.com**
 
 - 📄 Know about my experiences [https://rakib.my.id/resume](https://rakib.my.id/resume)
 
@@ -31,12 +32,12 @@
 <p align="left">
 <a href="https://codepen.io/rakibctg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rakibctg" height="30" width="40" /></a>
 <a href="https://dev.to/rakibctg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rakibctg" height="30" width="40" /></a>
-<a href="https://twitter.com/rakibctg786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakibctg786" height="30" width="40" /></a>
+<a href="https://twitter.com/eunusctg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eunusctg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakibctg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibctg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rakibctg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rakibctg" height="30" width="40" /></a>
 <a href="https://kaggle.com/rakibctg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakibctg" height="30" width="40" /></a>
-<a href="https://fb.com/rakibctg786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibctg786" height="30" width="40" /></a>
-<a href="https://instagram.com/rakibctg786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakibctg786" height="30" width="40" /></a>
+<a href="https://fb.com/eunus.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eunus.net" height="30" width="40" /></a>
+<a href="https://instagram.com/eunusctg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eunusctg" height="30" width="40" /></a>
 <a href="https://dribbble.com/rakibctg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rakibctg" height="30" width="40" /></a>
 <a href="https://www.behance.net/rakibctg786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rakibctg786" height="30" width="40" /></a>
 <a href="https://medium.com/rakibctg786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rakibctg786" height="30" width="40" /></a>
