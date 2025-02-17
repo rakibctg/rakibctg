@@ -13,14 +13,14 @@
 
 - 🤝 I’m looking for help with [None](#)
 
-- 👨‍💻 All of my projects are available at [https://rakib.my.id/](https://rakib.my.id/)
+- 👨‍💻 All of my projects are available at [https://eunus.com.bd](https://eunus.com.bd/)
 
-- 📝 I regularly write articles on [https://piforum.in](https://piforum.in)
+- 📝 I regularly write articles on [https://forumez.com](https://forumez.com)
 
 - 📫 How to reach me **eunusctg@gmail.com**
 **eunus@gmx.com**
 
-- 📄 Know about my experiences [https://rakib.my.id/resume](https://rakib.my.id/resume)
+- 📄 Know about my experiences [https://eunus.com.bd/resume](https://eunus.com.bd/resume)
 
 - ⚡ Fun fact **I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️**
 
